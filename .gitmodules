@@ -1,0 +1,3 @@
+[submodule "Quantum-Physics/Well-Potential-Simulation"]
+	path = Quantum-Physics/Well-Potential-Simulation
+	url = https://github.com/Wikpi/Well-Potential-Simulation.git
