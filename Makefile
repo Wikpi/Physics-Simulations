@@ -1,10 +1,10 @@
 .PHONY: add-submodule update-submodules remove-submodule
 
 add:
-	@./scripts/add-submodule.sh $(url) $(path)
+	./scripts/add-submodule.sh $(url) $(path)
 
 update:
-	@./scripts/update-submodules.sh
+	./scripts/update-submodules.sh
 
 remove:
-	@./scripts/remove-submodule.sh $(path)
+	./scripts/remove-submodule.sh $(path)
